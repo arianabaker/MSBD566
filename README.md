@@ -1,2 +1,4 @@
 # MSBD566
-Created for Predictive Modeling and Analytics course.
+This repository will contain projects completed as part of my Predictive Modeling and Analytics course. 
+
+*Last edited: 09/18/2025 by Ariana*
